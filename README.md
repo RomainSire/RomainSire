@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hi there <img src="https://github.com/RomainSire/RomainSire/blob/main/img/wave.gif" width="30px"></h1>
+<h3 align="center">I'm a web developper in France</h3>
+
+# Hi there  
 
 ### Languages and tools
 ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=1E88E5)
