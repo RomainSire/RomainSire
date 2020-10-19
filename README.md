@@ -10,6 +10,7 @@
 
 ### :wrench: Languages and tools
 <p align='center'>
+  <img src="https://img.shields.io/badge/code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=1E88E5">
   ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=1E88E5)
   ![](https://img.shields.io/badge/code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=1E88E5)
   ![](https://img.shields.io/badge/code-Node.js-informational?style=flat-square&logo=node.js&logoColor=white&color=1E88E5)
