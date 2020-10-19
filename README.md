@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=1E88E5)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=1E88E5)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=1E88E5)
+![](https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=flat-square&logo=Visual Studio Code&logoColor=white&color=1E88E5)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=1E88E5)
 
 
