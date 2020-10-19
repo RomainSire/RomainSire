@@ -9,24 +9,19 @@
 
 
 ### :wrench: Languages and tools
-<p align='center'>
-  <img src="https://img.shields.io/badge/code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=1E88E5">
-  <img src="https://img.shields.io/badge/code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=1E88E5">
-  <img src="https://img.shields.io/badge/code-Node.js-informational?style=flat-square&logo=node.js&logoColor=white&color=1E88E5">
-  <img src="https://img.shields.io/badge/code-Angular-informational?style=flat-square&logo=angular&logoColor=white&color=1E88E5">
-  <img src="https://img.shields.io/badge/code-SASS-informational?style=flat-square&logo=sass&logoColor=white&color=1E88E5">
-  <img src="https://img.shields.io/badge/code-PHP-informational?style=flat-square&logo=php&logoColor=white&color=1E88E5">
-</p>
-<p align='center'>
-  <img src="https://img.shields.io/badge/DB-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=1E88E5">
-  <img src="https://img.shields.io/badge/DB-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=1E88E5">
-  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat-square&logo=git&logoColor=white&color=1E88E5">
-  <img src="https://img.shields.io/badge/Tool-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=1E88E5">
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=1E88E5">
-</p>
+![](https://img.shields.io/badge/code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=1E88E5)
+![](https://img.shields.io/badge/code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=1E88E5)
+![](https://img.shields.io/badge/code-Node.js-informational?style=flat-square&logo=node.js&logoColor=white&color=1E88E5)
+![](https://img.shields.io/badge/code-Angular-informational?style=flat-square&logo=angular&logoColor=white&color=1E88E5)
+![](https://img.shields.io/badge/code-SASS-informational?style=flat-square&logo=sass&logoColor=white&color=1E88E5)
+![](https://img.shields.io/badge/code-PHP-informational?style=flat-square&logo=php&logoColor=white&color=1E88E5)
+
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=1E88E5)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=1E88E5)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat-square&logo=git&logoColor=white&color=1E88E5)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=1E88E5)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=1E88E5)
 
 ### :bar_chart: Stats
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomainSire&layout=compact" />
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomainSire&layout=compact" />
 
