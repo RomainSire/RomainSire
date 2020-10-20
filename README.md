@@ -9,13 +9,13 @@
 
 - 🤔 I use daily ```javascript```
 - 🌱 I’m currently learning Angular and Typescript
-- 💬 Talk to me about the world and travels.
+- 💬 Talk to me about the world and travels
 - 😄 Pronouns: He / Him
-- 📫 How to reach me: [romain.sire@gmx.com](mailto:romain.sire@gmx.com);
+- 📫 How to reach me: [romain.sire@gmx.com](mailto:romain.sire@gmx.com)
 - ⚡ Fun fact: 日本語を勉強します
 
 
-### :wrench: Languages and tools
+### Languages and tools
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
@@ -31,7 +31,5 @@
 ![](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Linux-%23FFA500.svg?&style=for-the-badge&logo=linux&logoColor=white)
 
-
-### :bar_chart: Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomainSire&layout=compact" />
 
