@@ -12,7 +12,7 @@
 - :speech_balloon: Talk to me about travels :earth_africa:
 - :smile: Pronouns: He / Him
 - :mailbox: How to reach me: [romain.sire@gmx.com](mailto:romain.sire@gmx.com)
-- :zap: Fun fact: 日本語を勉強します :mount_fuji:
+- :zap: Fun fact: 日本語を勉強します
 
 
 ### Languages and tools
