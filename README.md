@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, my name is Romain. <img src="https://github.com/RomainSire/RomainSire/blob/main/img/wave.gif" width="30px"></h1>
-<h3 align="center">I'm a web developper in France</h3>
+<h3 align="center">I'm a world wide web developper!</h3>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/romainsire/"><img height="30" src="https://github.com/RomainSire/RomainSire/blob/main/img/linkedin.png"></a>&nbsp;&nbsp;
@@ -7,12 +7,12 @@
   <a href="https://twitter.com/RomainSireDev"><img height="30" src="https://github.com/RomainSire/RomainSire/blob/main/img/twitter.png"></a>
 </p>
 
-- 🤔 I use daily ```javascript```
-- 🌱 I’m currently learning Angular and Typescript
-- 💬 Talk to me about the world and travels
-- 😄 Pronouns: He / Him
-- 📫 How to reach me: [romain.sire@gmx.com](mailto:romain.sire@gmx.com)
-- ⚡ Fun fact: 日本語を勉強します
+- :sunglasses: Check out [my portfolio](https://romainsire.github.io)
+- :seedling: I’m currently learning Angular and Typescript
+- :speech_balloon: Talk to me about travels :earth_africa:
+- :smile: Pronouns: He / Him
+- :mailbox: How to reach me: [romain.sire@gmx.com](mailto:romain.sire@gmx.com)
+- :zap: Fun fact: 日本語を勉強します :mount_fuji:
 
 
 ### Languages and tools
