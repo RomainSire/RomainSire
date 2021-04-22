@@ -3,12 +3,11 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/romainsire/"><img height="30" src="https://github.com/RomainSire/RomainSire/blob/main/img/linkedin.png"></a>&nbsp;&nbsp;
-  <a href="https://dev.to/romainsire"><img height="30" src="https://github.com/RomainSire/RomainSire/blob/main/img/dev.png"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/RomainSireDev"><img height="30" src="https://github.com/RomainSire/RomainSire/blob/main/img/twitter.png"></a>
 </p>
 
 - :sunglasses: Check out [my portfolio](https://romainsire.github.io)
-- :seedling: I’m currently learning Unit Testing (frontend and backend)
+- :seedling: I’m currently working from home for the company [La Valériane](https://www.lavaleriane.fr/)
 - :speech_balloon: Talk to me about travels :earth_africa:
 - :smile: Pronouns: He / Him
 - :mailbox: How to reach me: [romain.sire@gmx.com](mailto:romain.sire@gmx.com)
