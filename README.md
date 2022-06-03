@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, my name is Romain. <img src="https://github.com/RomainSire/RomainSire/blob/main/img/wave.gif" style="width:30px;"></h1>
+<h1 align="center">Hi there, my name is Romain.</h1>
 <h3 align="center">I'm a world wide web developper!</h3>
 
 <p align='center'>
