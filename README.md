@@ -10,7 +10,7 @@
 - :seedling: I’m currently working from home for the company [La Valériane](https://www.lavaleriane.fr/)
 - :speech_balloon: Talk to me about travels :earth_africa:
 - :smile: Pronouns: He / Him
-- :mailbox: How to reach me: [romain.sire@gmx.com](mailto:romain.sire@gmx.com)
+- :mailbox: How to reach me: [rsire@tuta.io](mailto:rsire@tuta.io)
 - :zap: Fun fact: 日本語を勉強します
 
 
