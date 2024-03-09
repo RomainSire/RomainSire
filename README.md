@@ -3,7 +3,6 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/romainsire/"><img height="30" src="https://github.com/RomainSire/RomainSire/blob/main/img/linkedin.png"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/RomainSireDev"><img height="30" src="https://github.com/RomainSire/RomainSire/blob/main/img/twitter.png"></a>
 </p>
 
 - :sunglasses: Check out [my portfolio](https://romainsire.github.io)
