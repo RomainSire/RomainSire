@@ -7,7 +7,7 @@
 </p>
 
 - :sunglasses: Check out [my portfolio](https://romainsire.github.io)
-- :seedling: I’m freelance, working from Japan, for cool French companies! :slight_smile:
+- :seedling: I’m freelance, working from Japan, for cool French companies! 🙂
 - :speech_balloon: Talk to me about travels :earth_africa:
 - :smile: Pronouns: He / Him
 - :mailbox: How to reach me: [rsire@tuta.io](mailto:rsire@tuta.io)
@@ -38,4 +38,4 @@
 
 I know I know, my Github profile is not very active, that's because I usually use Gitlab! :grin:
 
-<img height="30" src="https://github.com/RomainSire/RomainSire/blob/main/img/gitlab_activity.png">
+<img height="120" src="https://github.com/RomainSire/RomainSire/blob/main/img/gitlab_activity.png">
