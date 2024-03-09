@@ -7,7 +7,7 @@
 </p>
 
 - :sunglasses: Check out [my portfolio](https://romainsire.github.io)
-- :seedling: I’m currently working from home for the company [La Valériane](https://www.lavaleriane.fr/)
+- :seedling: I’m freelance, working from Japan, for cool French companies! :slight_smile:
 - :speech_balloon: Talk to me about travels :earth_africa:
 - :smile: Pronouns: He / Him
 - :mailbox: How to reach me: [rsire@tuta.io](mailto:rsire@tuta.io)
@@ -15,8 +15,8 @@
 
 
 ### Languages and tools
-![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
@@ -27,7 +27,6 @@
 ![](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
 
 ![](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white")
-![](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -37,6 +36,6 @@
 ![](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomainSire&layout=compact" />
-</p>
+I know I know, my Github profile is not very active, that's because I usually use Gitlab! :grin:
+
+<img height="30" src="https://github.com/RomainSire/RomainSire/blob/main/img/gitlab_activity.png">
