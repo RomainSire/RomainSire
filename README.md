@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/romainsire/"><img height="30" src="https://github.com/RomainSire/RomainSire/blob/main/img/linkedin.png"></a>&nbsp;&nbsp;
 </p>
 
-- :sunglasses: Check out [my portfolio](https://romainsire.github.io)
+- :sunglasses: Check out [my portfolio](https://romainsire.com/)
 - :seedling: I’m freelance, working from Japan, for cool French companies! 🙂
 - :speech_balloon: Talk to me about travels :earth_africa:
 - :smile: Pronouns: He / Him
