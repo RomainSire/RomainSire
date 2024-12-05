@@ -8,7 +8,6 @@
 - :sunglasses: Check out [my portfolio](https://romainsire.com/)
 - :seedling: I’m freelance, working from Japan, for cool French companies! 🙂
 - :speech_balloon: Talk to me about travels :earth_africa:
-- :smile: Pronouns: He / Him
 - :mailbox: How to reach me: [rsire@tuta.io](mailto:rsire@tuta.io)
 - :zap: Fun fact: 日本語を勉強します
 
@@ -34,7 +33,3 @@
 ![](https://img.shields.io/badge/Linux-%23FFA500.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
-I know I know, my Github profile is not very active, that's because I usually use Gitlab! :grin:
-
-<img height="120" src="https://github.com/RomainSire/RomainSire/blob/main/img/gitlab_activity.png">
